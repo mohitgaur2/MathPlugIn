@@ -1,0 +1,27 @@
+{
+  "name": "MathPlugIn",
+  "version": "0.0.1",
+  "description": "Cordova Math Plugin",
+  "cordova": {
+    "id": "cordova-math-plugin",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohitgaur2/MathPlugIn.git"
+  },
+  "keywords": [
+    "cordova",
+    "device",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Mohit",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/mohitgaur2/MathPlugIn/issues"
+  },
+  "homepage": "https://github.com/mohitgaur2/MathPlugIn#readme"
+}
