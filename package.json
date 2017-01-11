@@ -1,5 +1,5 @@
 {
-  "name": "MathPlugIn",
+  "name": "Math",
   "version": "0.0.1",
   "description": "Cordova Math Plugin",
   "cordova": {
