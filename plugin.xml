@@ -11,10 +11,10 @@
     <platform name="ios">
         <config-file target="config.xml" parent="/*">
             <feature name="Math">
-                <param name="ios-package" value="Math"/>
+                <param name="ios-package" value="MathClass"/>
             </feature>
         </config-file>
-        <header-file src="src/ios/Math.h" />
-        <source-file src="src/ios/Math.m" />
+        <header-file src="src/ios/MathClass.h" />
+        <source-file src="src/ios/MathClass.m" />
     </platform>
 </plugin>
